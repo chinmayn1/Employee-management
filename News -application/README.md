@@ -1,4 +1,3 @@
-### [https://jaygajera17.github.io/React-news-app/](https://jaygajera17.github.io/React-news-app/)
 
 # Getting Started with Create React App
 
